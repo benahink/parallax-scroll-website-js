@@ -13,3 +13,6 @@ window.addEventListener("scroll", () => {
 	hill4.style.left = value * -1.5 + "px";
 	hill1.style.top = value * 1 + "px";
 });
+
+// TODO: fix animation on mobile and tablet view
+// TODO: diable scrolling at a certain view so that images don't show past bottom paragraphs
